@@ -1,7 +1,5 @@
 # MEGA 本地下载器
 
-这是独立实现的本地网页和 Node.js 下载服务，不使用 MEGA-INDEX-CLOUDFLARE 的源码，也不经过 Cloudflare 转发文件数据。MEGA 链接解析、协议和加密由 MIT 许可的 `megajs` 库处理。
-
 ## 使用
 
 1. 安装 Node.js 20 或更新版本。
